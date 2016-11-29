@@ -1,0 +1,4 @@
+A Javascript/JQuery web app to take in patient information and persist in a database of choice,(e.g using php)
+
+Screen 1: A patient entry screen with fields like firstname, lastname, age, dob, gender (dropdown), phone and optinal free text information. Submit button validates the field values and store the information in the database(MySql).
+Screen 2: A patient directory which shows list of patients, with local search functionality based on patient name.
